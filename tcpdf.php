@@ -1,6 +1,6 @@
 <?php
 //============================================================+
-// File name   : tcpdf.php
+// File names   : tcpdf.php
 // Version     : 6.2.13
 // Begin       : 2002-08-03
 // Last Update : 2015-06-18
