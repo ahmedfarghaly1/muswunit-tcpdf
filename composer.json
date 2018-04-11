@@ -1,6 +1,6 @@
 {
   "name": "muswunit/tcpdf",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "homepage": "http://www.tcpdf.org/",
   "type": "library",
   "description": "TCPDF is a PHP class for generating PDF documents and barcodes",
